@@ -11,10 +11,7 @@ Introduction: As a data scientist, I was tasked with creating an interactive Pow
 
 Page 1: Sales Trends and Top Performers
 
-
-Sales Trend Analysis:
-
-On the first page, I focused on visualizing the overall sales trend over time. I used line charts to display monthly or quarterly sales fluctuations. This allowed stakeholders to quickly identify growth patterns, seasonality, and any anomalies.
+On the first page as Attached, I focused on visualizing the overall sales trend over time. I used line charts to display monthly or quarterly sales fluctuations. This allowed stakeholders to quickly identify growth patterns, seasonality, and any anomalies.
 Top 10 Customers:
 
 To recognize our most valuable customers who contributing high in sales of retail shop.
@@ -26,10 +23,7 @@ Excluded, United kingdom, because it act as outlier and client also agree to rem
 Color-coded bars made it easy to compare performance across different regions
 Page 2: Geographic Insights with Bubble Map
 
-powerbi Dashboard
-
-
-Geographic Distribution:
+powerbi Dashboard as dashboard 2 attached
 
 On the second page, I shifted focus to geographical insights. I created a world map using built-in map visuals.
 Each country was represented by a bubble, sized proportionally to its total sales. The larger the bubble, the higher the revenue generated from that country.
